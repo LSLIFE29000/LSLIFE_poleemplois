@@ -1,9 +1,9 @@
 # LSLIFE_poleemplois
 LSLIFE_POLEEMPLOIS
-menuf5 en pmenu ceci est une Version Beta
------------------a mettre dans votre serveur----------------
-mettre le fichier dans vos resources
-----------------Dans votre cfg-------------------
-ensure LSLIFE_pole
--------------------contacte------------------------
+LSLIFE_pole en pmenu
+
+1 / mettre le fichier dans vos resources
+
+2/ dans votre cfg mettre ensure LSLIFE_pole
+
 voici mon discord : LSLIFE#1559
